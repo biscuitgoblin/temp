@@ -1,4 +1,25 @@
-## Welcome to GitHub Pages
+# Welcome to my page
+
+I am trying out something new!
+Github pages.
+
+## What do I use this space for?
+I haven't decided yet...
+
+### Creating idle games? 
+Maybe
+
+### Updating PhD progress?
+Sounds like double the work
+
+### Documenting my working process?
+The most boring but also the most useful
+
+## What next?
+Probably need to learn css, html, js or something else. The point is I don't know!
+But I can add images!
+
+[test?](http://mathworld.wolfram.com/images/gifs/involute.gif)
 
 You can use the [editor on GitHub](https://github.com/biscuitgoblin/temp/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
