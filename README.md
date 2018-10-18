@@ -16,8 +16,11 @@ Sounds like double the work
 The most boring but also the most useful
 
 ![](involute.gif)
+
 (Involute curve - the basis of 95% of my working life)
 
 ## What next?
 Probably need to learn css, html, js or something else. The point is I don't know!
 But I can add images!
+
+![](turtle.jpg)
